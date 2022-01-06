@@ -1,3 +1,23 @@
 h1{
     text-align: center;
+    color:white ;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+#container{
+    background-color: #36393f;
+    padding: 10px;
+}
+
+#container2{
+    background-color: #36393f;
+    padding: 5px
+}
+
+body{
+    background-color: #2f3136;
+}
+img{
+    border-radius: 100px;
+    width: 100px;
 }
