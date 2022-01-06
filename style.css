@@ -1,23 +1,35 @@
 h1{
     text-align: center;
     color:white ;
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 50px;
 }
 
 #container{
     background-color: #36393f;
     padding: 10px;
-}
-
-#container2{
-    background-color: #36393f;
-    padding: 5px
+    margin: 20px;
 }
 
 body{
     background-color: #2f3136;
+    font-family: 'Trebuchet MS', sans-serif;
 }
+
 img{
     border-radius: 100px;
     width: 100px;
+    margin: 10px;
+}
+
+a{
+    font-size: 1.5cm;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    border: solid white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
 }
